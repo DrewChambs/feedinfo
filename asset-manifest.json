@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feedinfo/static/css/main.41e7e927.css",
+    "main.js": "/feedinfo/static/js/main.4487c61d.js",
+    "index.html": "/feedinfo/index.html",
+    "main.41e7e927.css.map": "/feedinfo/static/css/main.41e7e927.css.map",
+    "main.4487c61d.js.map": "/feedinfo/static/js/main.4487c61d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e7e927.css",
+    "static/js/main.4487c61d.js"
+  ]
+}
